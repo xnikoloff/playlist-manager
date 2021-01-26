@@ -1,0 +1,397 @@
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.StaticWebAssets.xml
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.exe
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.deps.json
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.runtimeconfig.json
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.runtimeconfig.dev.json
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.pdb
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.Views.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.Views.pdb
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.csprojAssemblyReference.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.AssemblyInfo.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorAssemblyInfo.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorAssemblyInfo.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\PlaylistManager.WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\PlaylistManager.WebApplication.StaticWebAssets.xml
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlaylistManager.WebApplication.styles.css
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.TagHelpers.input.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.TagHelpers.output.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorCoreGenerate.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.Views.pdb
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.csproj.CopyComplete
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.pdb
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.genruntimeconfig.cache
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Create.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Delete.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Details.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Edit.cshtml.g.cs
+C:\Users\hrist\source\repos\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Index.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.StaticWebAssets.xml
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.exe
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.deps.json
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.runtimeconfig.json
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.runtimeconfig.dev.json
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.pdb
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.Views.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\PlaylistManager.WebApplication.Views.pdb
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.csprojAssemblyReference.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.AssemblyInfoInputs.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.AssemblyInfo.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.csproj.CoreCompileInputs.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorAssemblyInfo.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorAssemblyInfo.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\PlaylistManager.WebApplication.StaticWebAssets.Manifest.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\PlaylistManager.WebApplication.StaticWebAssets.xml
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlaylistManager.WebApplication.styles.css
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.TagHelpers.input.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.TagHelpers.output.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorCoreGenerate.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\AllPlaylists.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Create.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Delete.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Details.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Edit.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Playlists\Index.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorTargetAssemblyInfo.cache
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.RazorTargetAssemblyInfo.cs
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.Views.pdb
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.csproj.CopyComplete
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.dll
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.pdb
+D:\Work\C# Development\PlaylistManager\PlaylistManager.WebApplication\obj\Debug\netcoreapp3.1\PlaylistManager.WebApplication.genruntimeconfig.cache
