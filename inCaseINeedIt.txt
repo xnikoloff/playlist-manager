@@ -1,0 +1,26 @@
+public async Task<IActionResult> Create([Bind("BrandId,Name,Description,IsActive,ManufacturerId,BrandImage.ImageFile")] Brand brand)
+        {
+            if (ModelState.IsValid)
+            {
+                //save image to root folde
+                string rootPath = hostEnvironment.WebRootPath;
+                string fileName = Path.GetFileNameWithoutExtension(brand.BrandImage.ImageFile.FileName);
+                string extension = Path.GetExtension(brand.BrandImage.ImageFile.FileName);
+
+                brand.BrandImage.ImageTitle = fileName;
+                string imageSavePath = Path.Combine(rootPath + "/images/brands/", fileName);
+
+                using var fileStream = new FileStream(imageSavePath, FileMode.Create);
+                await brand.BrandImage.ImageFile.CopyToAsync(fileStream);
+
+                _context.Add(brand);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            ViewData["BrandImage.ImageFile"] = new SelectList(_context.Images, "ImageId", "BrandImage.ImageFile", brand.BrandImage.ImageFile);
+            ViewData["ManufacturerId"] = new SelectList(_context.Manufacturers, "ManufacturerId", "Name", brand.ManufacturerId);
+            return View(brand);
+        }
+
+
+//CreateView

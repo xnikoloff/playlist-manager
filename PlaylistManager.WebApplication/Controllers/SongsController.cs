@@ -10,22 +10,23 @@ using PlaylistManager.WebApplication.Models;
 
 namespace PlaylistManager.WebApplication.Controllers
 {
-    public class PlaylistsController : Controller
+    public class SongsController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public PlaylistsController(ApplicationDbContext context)
+        public SongsController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Playlists
+        // GET: Songs
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Playlists.ToListAsync());
+            var applicationDbContext = _context.Songs.Include(s => s.PerformingArtist).Include(s => s.Playlist);
+            return View(await applicationDbContext.ToListAsync());
         }
 
-        // GET: Playlists/Details/5
+        // GET: Songs/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -33,39 +34,45 @@ namespace PlaylistManager.WebApplication.Controllers
                 return NotFound();
             }
 
-            var playlist = await _context.Playlists
+            var song = await _context.Songs
+                .Include(s => s.PerformingArtist)
+                .Include(s => s.Playlist)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (playlist == null)
+            if (song == null)
             {
                 return NotFound();
             }
 
-            return View(playlist);
+            return View(song);
         }
 
-        // GET: Playlists/Create
+        // GET: Songs/Create
         public IActionResult Create()
         {
+            ViewData["ArtistId"] = new SelectList(_context.Artists, "Id", "Name");
+            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "Id", "Title");
             return View();
         }
 
-        // POST: Playlists/Create
+        // POST: Songs/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title")] Playlist playlist)
+        public async Task<IActionResult> Create([Bind("Id,Title,Description,Lyrics,Url,ArtistId,PlaylistId")] Song song)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(playlist);
+                _context.Add(song);
                 await _context.SaveChangesAsync();
-                return RedirectToAction("Create", "Songs");
+                return RedirectToAction(nameof(Index));
             }
-            return View(playlist);
+            ViewData["ArtistId"] = new SelectList(_context.Artists, "Id", "Name", song.ArtistId);
+            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "Id", "Title", song.PlaylistId);
+            return View(song);
         }
 
-        // GET: Playlists/Edit/5
+        // GET: Songs/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -73,22 +80,24 @@ namespace PlaylistManager.WebApplication.Controllers
                 return NotFound();
             }
 
-            var playlist = await _context.Playlists.FindAsync(id);
-            if (playlist == null)
+            var song = await _context.Songs.FindAsync(id);
+            if (song == null)
             {
                 return NotFound();
             }
-            return View(playlist);
+            ViewData["ArtistId"] = new SelectList(_context.Artists, "Id", "Name", song.ArtistId);
+            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "Id", "Title", song.PlaylistId);
+            return View(song);
         }
 
-        // POST: Playlists/Edit/5
+        // POST: Songs/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title")] Playlist playlist)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,Lyrics,Url,ArtistId,PlaylistId")] Song song)
         {
-            if (id != playlist.Id)
+            if (id != song.Id)
             {
                 return NotFound();
             }
@@ -97,12 +106,12 @@ namespace PlaylistManager.WebApplication.Controllers
             {
                 try
                 {
-                    _context.Update(playlist);
+                    _context.Update(song);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!PlaylistExists(playlist.Id))
+                    if (!SongExists(song.Id))
                     {
                         return NotFound();
                     }
@@ -113,10 +122,12 @@ namespace PlaylistManager.WebApplication.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(playlist);
+            ViewData["ArtistId"] = new SelectList(_context.Artists, "Id", "Name", song.ArtistId);
+            ViewData["PlaylistId"] = new SelectList(_context.Playlists, "Id", "Title", song.PlaylistId);
+            return View(song);
         }
 
-        // GET: Playlists/Delete/5
+        // GET: Songs/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -124,44 +135,35 @@ namespace PlaylistManager.WebApplication.Controllers
                 return NotFound();
             }
 
-            var playlist = await _context.Playlists
+            var song = await _context.Songs
+                .Include(s => s.PerformingArtist)
+                .Include(s => s.Playlist)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (playlist == null)
+            if (song == null)
             {
                 return NotFound();
             }
 
-            return View(playlist);
+            return View(song);
         }
 
-        // POST: Playlists/Delete/5
+        // POST: Songs/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var playlist = await _context.Playlists.FindAsync(id);
-            _context.Playlists.Remove(playlist);
+            var song = await _context.Songs.FindAsync(id);
+            _context.Songs.Remove(song);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool PlaylistExists(int id)
-        {
-            return _context.Playlists.Any(e => e.Id == id);
-        }
-
-        public IActionResult MyPlaylists()
-        {
-            var playlists = this._context.Playlists.ToList();
-            return this.View(playlists);
-        } 
-        
-        public IActionResult PlaylistContent(int id)
+        public IActionResult MySongs()
         {
             var songs = this._context.Songs
-                .Where(s => s.PlaylistId == id)
                 .Select(s => new Song
                 {
+                    Id = s.Id,
                     Title = s.Title,
                     PerformingArtist = s.PerformingArtist,
                     Description = s.Description,
@@ -172,6 +174,26 @@ namespace PlaylistManager.WebApplication.Controllers
                 .ToList();
 
             return this.View(songs);
+        }
+
+        private bool SongExists(int id)
+        {
+            return _context.Songs.Any(e => e.Id == id);
+        }
+
+        public IActionResult FilterByArtist(int id)
+        {
+            var songsByArtist = this._context.Songs
+                .Where(s => s.ArtistId == id)
+                .Select(s => new Song
+                {
+                    Title = s.Title,
+                    PerformingArtist = s.PerformingArtist,
+                    Url = s.Url
+                })
+                .ToList();
+
+            return this.View(songsByArtist);
         }
     }
 }

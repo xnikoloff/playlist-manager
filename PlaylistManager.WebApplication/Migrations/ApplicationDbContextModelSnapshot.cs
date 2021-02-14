@@ -3,17 +3,15 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PlaylistManager.WebApplication.Data;
 
-namespace PlaylistManager.WebApplication.Data.Migrations
+namespace PlaylistManager.WebApplication.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210117184748_AddAppModels")]
-    partial class AddAppModels
+    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -255,21 +253,6 @@ namespace PlaylistManager.WebApplication.Data.Migrations
                     b.ToTable("Playlists");
                 });
 
-            modelBuilder.Entity("PlaylistManager.WebApplication.Models.PlaylistSong", b =>
-                {
-                    b.Property<int>("PlaylistId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("SongId")
-                        .HasColumnType("int");
-
-                    b.HasKey("PlaylistId", "SongId");
-
-                    b.HasIndex("SongId");
-
-                    b.ToTable("PlaylistsSongs");
-                });
-
             modelBuilder.Entity("PlaylistManager.WebApplication.Models.Song", b =>
                 {
                     b.Property<int>("Id")
@@ -288,14 +271,23 @@ namespace PlaylistManager.WebApplication.Data.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasMaxLength(20000);
 
+                    b.Property<int>("PlaylistId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasColumnType("nvarchar(100)")
                         .HasMaxLength(100);
 
+                    b.Property<string>("Url")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("ArtistId");
+
+                    b.HasIndex("PlaylistId");
 
                     b.ToTable("Songs");
                 });
@@ -351,26 +343,17 @@ namespace PlaylistManager.WebApplication.Data.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("PlaylistManager.WebApplication.Models.PlaylistSong", b =>
-                {
-                    b.HasOne("PlaylistManager.WebApplication.Models.Playlist", "Playlist")
-                        .WithMany()
-                        .HasForeignKey("PlaylistId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("PlaylistManager.WebApplication.Models.Song", "Song")
-                        .WithMany()
-                        .HasForeignKey("SongId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
             modelBuilder.Entity("PlaylistManager.WebApplication.Models.Song", b =>
                 {
                     b.HasOne("PlaylistManager.WebApplication.Models.Artist", "PerformingArtist")
                         .WithMany("Songs")
                         .HasForeignKey("ArtistId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PlaylistManager.WebApplication.Models.Playlist", "Playlist")
+                        .WithMany("Songs")
+                        .HasForeignKey("PlaylistId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

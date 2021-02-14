@@ -1,0 +1,25 @@
+﻿@model ICollection<PlaylistManager.WebApplication.Models.Artist>
+@{
+    ViewData["Title"] = "MyArtists";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>My Artists</h1>
+
+<div class="container-fluid">
+    <div class="row">
+        @foreach (var artist in Model)
+        {
+            <div class="col-12 col-md-8 col-lg-4 text-center mt-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">@artist.Name</h5>
+                        <hr>
+                        <a class="btn btn-primary" asp-controller="Songs" asp-action="FilterByArtist" asp-route-id="@artist.Id">All songs by this artist</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

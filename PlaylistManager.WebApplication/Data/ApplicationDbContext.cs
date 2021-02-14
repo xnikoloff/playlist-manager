@@ -12,8 +12,7 @@ namespace PlaylistManager.WebApplication.Data
         public DbSet<Artist> Artists { get; set; }
         public DbSet<Playlist> Playlists { get; set; }
         public DbSet<Song> Songs { get; set; }
-        public DbSet<PlaylistSong> PlaylistsSongs { get; set; }
-
+        
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
@@ -21,11 +20,6 @@ namespace PlaylistManager.WebApplication.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.Entity<PlaylistSong>(ps =>
-            {
-                ps.HasKey(key => new { key.PlaylistId, key.SongId });
-            });
-
             base.OnModelCreating(builder);
         }
     }

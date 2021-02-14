@@ -9,11 +9,18 @@ namespace PlaylistManager.WebApplication.Models
 {
     public class Playlist
     {
+        public Playlist()
+        {
+            this.Songs = new HashSet<Song>();
+        }
+
         [Key]
         public int Id { get; set; }
 
         [Required]
         [MaxLength(ModelConstraints.PlaylistTitleMaxLength)]
         public string Title { get; set; }
+
+        public ICollection<Song> Songs { get; set; }
     }
 }

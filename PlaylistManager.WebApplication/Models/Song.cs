@@ -30,5 +30,10 @@ namespace PlaylistManager.WebApplication.Models
         public int ArtistId { get; set; }
 
         public Artist PerformingArtist{ get; set; }
+
+        [ForeignKey(nameof(Playlist))]
+        public int PlaylistId { get; set; }
+
+        public Playlist Playlist { get; set; }
     }
 }
