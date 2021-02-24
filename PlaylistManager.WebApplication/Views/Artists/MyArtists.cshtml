@@ -4,22 +4,29 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>My Artists</h1>
 
-<div class="container-fluid">
-    <div class="row">
-        @foreach (var artist in Model)
-        {
-            <div class="col-12 col-md-8 col-lg-4 text-center mt-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">@artist.Name</h5>
-                        <hr>
-                        <a class="btn btn-primary" asp-controller="Songs" asp-action="FilterByArtist" asp-route-id="@artist.Id">All songs by this artist</a>
+<div class="container">
+    <main role="main" class="pb-3" style="margin-top: 5%">
+        <h1 class="text-white">My <span class="spanArtist">Artists</span></h1>
+        <a class="btn btn-info" asp-action="Create">Create artist</a>
+
+        <div class="container-fluid mt-5">
+            <div class="row">
+                @foreach (var artist in Model)
+                {
+
+                    <div class="col-12 col-md-8 col-lg-4 text-center mt-4 mb-4">
+                        <div class="card" style="width: 22rem;">
+                            <div class="card-body">
+                                <h4 class="card-title ">@artist.Name</h4>
+                                <hr>
+                                <a class="btn btn-info" asp-controller="Songs" asp-action="FilterByArtist" asp-route-id="@artist.Id">All songs by this artist</a>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                }
             </div>
-        }
-    </div>
+        </div>
+    </main>
 </div>
 

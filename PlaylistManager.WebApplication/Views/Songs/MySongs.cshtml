@@ -4,24 +4,31 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>My Songs</h1>
 
-<div class="container-fluid">
-    <div class="row">
-        @foreach (var song in Model)
-        {
-            <div class="col-12 col-md-8 col-lg-4 text-center mt-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">@song.Title by @song.PerformingArtist.Name</h5>
-                        <hr>
-                        <a class="btn btn-success mb-2" asp-action="Details" asp-route-id="@song.Id">Details</a>
-                        <br>
-                        <a href="@song.Url" class="btn btn-primary">Listen</a>
+<div class="container">
+    <main role="main" class="pb-3" style="margin-top: 5%;">
+        <h1 class="text-white">My <span class="spanArtist">Songs</span> </h1>
+
+        <div class="container-fluid">
+            <div class="row">
+                @foreach (var song in Model)
+                {
+
+                    <div class="col-12 col-md-8 col-lg-4 text-center mt-4 mb-4">
+                        <div class="card" style="width: 22rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">@song.Title by @song.PerformingArtist.Name</h5>
+                                <hr>
+                                <a class="btn btn-success mb-2" asp-action="Details" asp-route-id="@song.Id">Details</a>
+                                <!-- <br> -->
+                                <a href="@song.Url" class="btn btn-info" style="margin-left: 34%;">Listen</a>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                }
             </div>
-        }
-    </div>
+        </div>
+    </main>
 </div>
+
 

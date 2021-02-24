@@ -5,21 +5,25 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-
-<div class="container-fluid">
-    <div class="row">
-        @foreach (var song in Model)
-        {
-            <div class="col-12 col-md-8 col-lg-4 text-center">
-                <div class="card" style="width: 18rem;">
-                    <div class="card-body">
-                        <h5 class="card-title">@song.Title by @song.PerformingArtist.Name</h5>
-                        <hr>
-                        <p class="card-text">@song.Description</p>
-                        <a href="@song.Url" class="btn btn-primary">Listen</a>
+<div class="container">
+    <main role="main" class="pb-3" style="margin-top: 5%;">
+        <div class="container-fluid">
+            <div class="row">
+                @foreach (var song in Model)
+                {
+                    <div class="col-12 col-md-8 col-lg-4 text-center">
+                        <div class="card" style="width: 22rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">@song.Title by @song.PerformingArtist.Name</h5>
+                                <hr>
+                                <a href="@song.Url" class="btn btn-info">Listen</a>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                }
             </div>
-        }
-    </div>
+        </div>
+    </main>
 </div>
+
+
